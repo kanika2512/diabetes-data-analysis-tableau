@@ -15,3 +15,11 @@ This repository contains a Tableau dashboard analyzing factors that contribute t
 
 ## View Online
 🔗 [Dashboard on Tableau Public](https://public.tableau.com/app/profile/kanika.dhyani/viz/Diabetes_Data_Analysis_17478845340210/Diabetes_Data_Analysis)
+
+## Visualizations
+
+### 🔍 Feature Correlation with Diabetes Outcome
+![Glucose vs Outcome](glucose_correlation_chart.png)
+
+### 📊 Feature Importance Summary
+![Feature Importance](feature_importance.png)
