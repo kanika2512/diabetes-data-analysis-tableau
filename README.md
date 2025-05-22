@@ -18,8 +18,5 @@ This repository contains a Tableau dashboard analyzing factors that contribute t
 
 ## Visualizations
 
-### 🔍 Feature Correlation with Diabetes Outcome
-![Glucose vs Outcome](glucose_correlation_chart.png)
-
-### 📊 Feature Importance Summary
-![Feature Importance](feature_importance.png)
+### 🔍 Feature Correlation of Age, BMI, Pregnancy with Diabetes Outcome
+![Glucose vs Outcome](Diabetes_Data_Analysis.png)
